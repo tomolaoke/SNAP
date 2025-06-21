@@ -1,0 +1,9 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center all children horizontally */
+  justify-content: center; /* Center all children vertically */
+}
+
+/* Add any global styles here */
